@@ -11,8 +11,8 @@
 - TBA
 
 ### Commit Message
-- [Problem Number]-[title]
-    > example) 0001-two-sum
+- [MM/DD] [Problem Number]-[title]
+    > example) 03/28 0001-two-sum
 
 ### File Path
 - leetcode/[name]/[problem]/[problem number]-[title]
