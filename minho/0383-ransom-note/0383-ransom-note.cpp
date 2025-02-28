@@ -13,7 +13,6 @@ public:
             }
             magaHash[c]--;
         }
-
         return true;
     }
 };
